@@ -1,9 +1,9 @@
 # 💫 About Me:
 ## Hi, I'm Mille 👋<br>
-🔭 I’m currently working on an Obsidian plugin and designing a productivity app (web or desktop)  
-👯 I’m looking to collaborate on productivity tools
-🤝 I’m looking for help with turning ideas into polished and usable apps 
-💬 Ask me about Obsidian workflows, templates, and productivity setups  
+🔭 I’m currently working on an Obsidian plugin and designing a productivity app (web or desktop)<br>
+👯 I’m looking to collaborate on productivity tools<br>
+🤝 I’m looking for help with turning ideas into polished and usable apps<br> 
+💬 Ask me about Obsidian workflows, templates, and productivity setups<br>
 ⚡ Fun fact: I love seeing data turn into visuals — it's where design and insight meet!<br><br>
 
 
